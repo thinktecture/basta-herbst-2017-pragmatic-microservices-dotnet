@@ -22,10 +22,7 @@
         "styles/global.scss",
         "../node_modules/font-awesome/css/font-awesome.css"
       ],
-      "scripts": [
-        "../node_modules/jquery/dist/jquery.js",
-        "../node_modules/signalr/jquery.signalR.js"
-      ],
+      "scripts": [],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
