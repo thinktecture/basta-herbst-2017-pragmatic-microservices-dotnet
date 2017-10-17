@@ -7,6 +7,7 @@ import {PushService} from '../../services/pushService';
 
 @Component({
   selector: 'app-security-login',
+  styleUrls: ['login.scss'],
   templateUrl: 'login.html'
 })
 export class LoginComponent {
